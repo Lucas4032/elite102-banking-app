@@ -14,7 +14,7 @@ Requirements
 Installation
 --------------
 1. Clone the repository
-   git clone https://github.com/Lucas4032/elite102-banking-app.git  (<- command to clone)
+   git clone https://github.com/Lucas4032/elite102-banking-app.git
 
 2. Then install the Python connector
    pip install mysql-connector-python (<- command to install)
